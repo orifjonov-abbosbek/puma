@@ -203,7 +203,6 @@
   margin-top: 140px;
 }
 .features p {
-   
   font-family: "Source Serif Pro";
   font-style: normal;
   font-weight: 600;
@@ -212,10 +211,10 @@
   text-align: center;
   color: #1a0a03;
 }
-.cards{
-    display: flex;
-    max-width: 1140px;
-    margin-left: 230px;
+.cards {
+  display: flex;
+  max-width: 1140px;
+  margin-left: 230px;
 }
 .features-card {
   width: 360px;
@@ -264,4 +263,149 @@
   background-color: white;
   margin-left: 127px;
   margin-top: 20px;
+}
+.gallery {
+  margin-top: 140px;
+  margin-left: 230px;
+}
+.gallery h2 {
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 150%;
+
+  letter-spacing: 0.05em;
+  color: #ee5514;
+}
+.gallery p {
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 130%;
+
+  color: #1a0a03;
+  max-width: 1140px;
+}
+.categories {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 140%;
+  letter-spacing: 0.05em;
+  color: #1a0a03;
+  opacity: 0.7;
+
+  margin-top: 16px;
+}
+.categories-items {
+  display: flex;
+  list-style: none;
+}
+.cat-list-items {
+  margin-right: 35px;
+}
+.cat-list-items:hover {
+  font-size: 35px;
+  border-bottom: 1px solid #ee5514;
+  color: #ee5514;
+}
+.catlist-img {
+  margin-left: 528px;
+}
+.gallery-cards {
+  display: flex;
+}
+.gal-card h3 {
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 150%;
+  color: #1a0a03;
+}
+.gal-card p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  color: #1a0a03;
+  opacity: 0.7;
+}
+.gal-card span {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 160%;
+  color: #1a0a03;
+  opacity: 0.8;
+}
+.gal-btn {
+  width: 128px;
+  height: 56px;
+  left: 230px;
+  top: 2597px;
+  background: #ee5514;
+  border-radius: 5px;
+  color: white;
+  margin-top: 25px;
+}
+.testimonals {
+  max-width: 1140px;
+  margin-left: 230px;
+  margin-top: 140px;
+}
+.testimonals h2 {
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 130%;
+  color: #1a0a03;
+  text-align: center;
+}
+.test-img {
+  margin-top: 60px;
+  margin-right: 127px;
+}
+.testimonal-card {
+  display: flex;
+}
+.test-item {
+  margin-top: 67px;
+}
+.test-item h3 {
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 150%;
+  text-align: center;
+  color: #1a0a03;
+  margin-top: 70.39px;
+}
+.test-item p {
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 160%;
+  color: #1a0a03;
+  opacity: 0.7;
+  margin-left: 50px;
+  margin-top: 15.61px;
+}
+.test-item b {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 160%;
+  color: #1a0a03;
+  margin-left: 50px;
+  margin-top: 25.39px;
 }
