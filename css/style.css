@@ -1,0 +1,193 @@
+@import url("https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Karla:ital@1&family=Open+Sans:wght@500&family=Poppins:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Karla:ital@1&family=Open+Sans:wght@500&family=Poppins:wght@500&family=Source+Serif+Pro:wght@600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 1600px;
+}
+
+.header-box {
+  display: flex;
+  align-items: center;
+  max-width: 1600px;
+}
+.logo {
+  margin-top: 47px;
+  margin-left: 230px;
+}
+.nav-item {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin-top: 60px;
+  margin-left: 101px;
+}
+
+.nav-item-list {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 160%;
+  margin-right: 40px;
+  color: #1a0a03;
+  opacity: 0.7;
+}
+
+.nav-item-list:hover {
+  color: #ee5514;
+}
+.btn1 {
+  color: white;
+  width: 137px;
+  height: 59px;
+  left: 1233px;
+  top: 40px;
+  margin-top: 40px;
+  background: #ee5514;
+  border-radius: 5px;
+  margin-left: 477px;
+}
+.shoes {
+  display: flex;
+  margin-left: 230px;
+  margin-top: 32px;
+  background-color: linear-gradient(
+    90deg,
+    #ee5514 1.14%,
+    rgba(238, 85, 20, 0) 133.88%
+  );
+  opacity: 1;
+}
+
+.shoes-topic span {
+  color: #ee5514;
+}
+.shoes-topic {
+  width: 400px;
+  height: 316px;
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 61px;
+  line-height: 120%;
+  color: #1a0a03;
+  margin-right: 147px;
+  margin-top: 60px;
+}
+.shoes-topic h1 {
+  width: 350px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 61px;
+  line-height: 120%;
+  color: #1a0a03;
+}
+.krassovka-img {
+  width: 598px;
+  height: 400px;
+  background-image: url(/images/ramka.png);
+  background-repeat: no-repeat;
+  margin-left: 15px;
+  background-clip: border-box;
+  background-position-x: center;
+  margin-top: 32px;
+}
+.strelka {
+  width: 70px;
+  height: 70px;
+  border: 0.5px solid;
+  padding: 5px;
+  border-radius: 50%;
+  margin-right: 230px;
+  background: #ee5514;
+  margin-top: 197px;
+  right: 0px;
+  margin-left: -60px;
+}
+.p1 {
+  width: 326px;
+  height: 52px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  color: #1a0a03;
+  opacity: 0.7;
+  margin-top: 21px;
+}
+.prise-sec {
+  display: flex;
+  width: 792px;
+  height: 125px;
+  margin-left: 280px;
+  margin-top: 80px;
+}
+.shoes-prise {
+  margin-right: 15px;
+}
+.shoes-prise p {
+  margin-bottom: 10px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  color: #1a0a03;
+  opacity: 0.7;
+}
+.line {
+  width: 42px;
+  height: 0px;
+  left: 406px;
+
+  margin-left: 73px;
+  top: 615px;
+  border: 1px solid #ee5514;
+  transform: rotate(90deg);
+}
+.price-btn {
+  width: 128px;
+  height: 56px;
+  left: 840px;
+  top: 608px;
+
+  background: #ee5514;
+  border-radius: 5px;
+}
+.video {
+  display: flex;
+  align-items: center;
+  width: 1190px;
+  margin-left: 230px;
+}
+.video-article h2 {
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 150%;
+  letter-spacing: 0.05em;
+  color: #ee5514;
+}
+.video-article h3 {
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 130%;
+  color: #1a0a03;
+}
+.video-article p {
+  width: 326px;
+  margin-top: 20px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  color: #1a0a03;
+  opacity: 0.7;
+}
