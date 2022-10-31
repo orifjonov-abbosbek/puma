@@ -7,6 +7,9 @@
   box-sizing: border-box;
   max-width: 1600px;
 }
+.header{
+  width: 100%;
+}
 
 .header-box {
   display: flex;
@@ -139,7 +142,7 @@
   margin-top: 80px;
 }
 .shoes-prise {
-  margin-right: 15px;
+  margin-right: 40px;
 }
 .shoes-prise p {
   margin-bottom: 10px;
